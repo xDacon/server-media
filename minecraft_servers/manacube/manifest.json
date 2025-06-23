@@ -1,7 +1,7 @@
 {
   "server_name": "manacube",
   "nice_name": "ManaCube",
-  "direct_ip": "play.manacube.com",
+  "direct_ip": "laby.manacube.com",
   "server_wildcards": [
     "%.manacube.com",
     "%.manacube.net",
@@ -29,10 +29,10 @@
       "name": "SkyBlock",
       "color": "#c4a525",
       "command": "/skyblock",
-      "versions": "1.18<*"
+      "versions": "1.19<*"
     },
     "olympus_prison": {
-      "name": "Olympus Prison",
+      "name": "Prison",
       "color": "#c4a525",
       "command": "/olympus",
       "versions": "1.19<*"
@@ -53,13 +53,7 @@
       "name": "Islands",
       "color": "#c4a525",
       "command": "/islands",
-      "versions": "1.16<*"
-    },
-    "anarchy": {
-      "name": "Anarchy",
-      "color": "#c4a525",
-      "command": "/anarchy",
-      "versions": "1.16<*"
+      "versions": "1.19<*"
     },
     "creative": {
       "name": "Creative",
@@ -68,15 +62,15 @@
       "versions": "1.19<*"
     },
     "earth_towny": {
-      "name": "Earth Towny",
+      "name": "Earth",
       "color": "#c4a525",
       "command": "/earth",
       "versions": "1.19<*"
     },
     "lifesteal_factions": {
-      "name": "Lifesteal Factions",
+      "name": "Lifesteal",
       "color": "#c4a525",
-      "command": "/factions",
+      "command": "/lifesteal",
       "versions": "1.19<*"
     },
     "kitpvp": {
